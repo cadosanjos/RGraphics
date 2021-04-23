@@ -1,2 +1,2 @@
 # RGraphics
-Project to show some graphics in R.
+Project to show some graphics in R using ggplot2.
